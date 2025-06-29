@@ -1,4 +1,4 @@
-# Predicting-Employee-Retention-of-Salifort-Motors
+# Machine Learning-Based Prediction of Employee Turnover at Salifort Motors
 # Overview
 Goals in this project are to analyze the data collected by the HR department and to build a model that predicts whether or not an employee will leave the company. This project utilized Salifort Motors data collected by HR Department. The final random forest model performed with 96% accuracy determining what features were most important for employee rentention. Based on the model employees satisfaction level, tenure and overtime work were most influential in determining whether employee would quit or stay.
 
